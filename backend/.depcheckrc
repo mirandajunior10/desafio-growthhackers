@@ -1,0 +1,1 @@
+ignores: ["eslint", "@babel/*", "babel-*", "tsconfig-paths", "pg", "@shared/*", "@config/*", "@modules/*"]
